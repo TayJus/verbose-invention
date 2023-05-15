@@ -1,0 +1,6 @@
+nmap==0.7.0
+requests==2.26.0
+selenium==3.141.0
+sqlmap==1.5.3
+smbclient==1.0.0
+smbprotocol==0.1.0
